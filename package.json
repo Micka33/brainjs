@@ -1,0 +1,23 @@
+{
+  "name": "brainjs",
+  "version": "1.0.0",
+  "description": "testing harthur/brain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Micka33@github.com/Micka33/brainjs.git"
+  },
+  "author": "Micka33",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micka33/brainjs/issues"
+  },
+  "homepage": "https://github.com/Micka33/brainjs",
+  "dependencies": {
+    "brain": "^0.7.0"
+  }
+}
