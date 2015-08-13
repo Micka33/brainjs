@@ -1,5 +1,5 @@
 # brainjs
-testing harthur/brain
+testing [harthur/brain](https://github.com/harthur/brain)
 
 # Run it
 
