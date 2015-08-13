@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter nyan"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Micka33/brainjs",
   "dependencies": {
     "brain": "^0.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
   }
 }
